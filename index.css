@@ -12,3 +12,8 @@ body{
 .A li{
     list-style: none;
 }
+.B{
+    text-align: center;
+    margin: 0px;
+    margin-right: 10px;
+}
