@@ -3,9 +3,11 @@ body{
 }
 .header{
     width:100%;
+    text-align: center;
 }
 .A{
     list-style-type: none;
+    list-style: none;
     text-align: center;
    
 }
