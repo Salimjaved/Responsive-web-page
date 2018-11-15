@@ -10,7 +10,10 @@ body{
    
 }
 .A li{
-    list-style: none;
+    display: inline;
+    list-style-type: disc;
+    display: -webkit-inline-flex;
+    
 }
 .B{
     text-align: center;
