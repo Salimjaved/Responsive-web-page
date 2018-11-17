@@ -50,4 +50,8 @@ body{
     flex-direction: column;
     width: 100%;
 }
-
+.G{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
