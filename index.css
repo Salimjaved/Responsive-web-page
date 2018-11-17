@@ -45,3 +45,9 @@ body{
     width: 100%;
     text-align: center;
 }
+.D{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
