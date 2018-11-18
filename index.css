@@ -55,3 +55,10 @@ body{
     flex-direction: column;
     width: 100%;
 }
+.J{
+    text-align: center;
+}
+#J1{
+    font-size: 20px;
+    padding: 12px 30px;
+}
