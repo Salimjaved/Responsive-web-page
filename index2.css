@@ -21,3 +21,12 @@ body{
     margin: 0%;
     padding: 8px;
 }
+.A1 li{
+    text-align: center;
+    list-style: none;
+    text-align: initial;
+    padding: 10px;
+    margin: 10px;
+    height: 15px;
+    display: inline;
+}
