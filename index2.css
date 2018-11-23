@@ -30,3 +30,8 @@ body{
     height: 15px;
     display: inline;
 }
+.tshirt{
+    float: left;
+    width: 50%;
+    height: 600px;
+}
