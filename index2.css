@@ -44,3 +44,9 @@ body{
     margin-left: 30px;
     padding: 3px;
 }
+.button button{
+    text-align: center;
+    margin: 15px;
+    padding: 20px;
+    width: 200px;
+}
