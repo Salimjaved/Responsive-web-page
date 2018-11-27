@@ -8,13 +8,16 @@ body{
 .heade{
     float: left;
     height: 34px;
-    margin-top: 6px;
+    
 }
+
 .header1{
     text-align: center;
     margin-left: 36px;
-    width: 1180px;
-        
+    width: 1200px;       
+}
+.cart{
+    width: 34px;
 }
 .A{
     text-align: center;
