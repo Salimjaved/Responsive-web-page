@@ -4,6 +4,12 @@ body{
 .header{
     width:100%;
 }
+
+.heade{
+    float: left;
+    height: 34px;
+    margin-top: 6px;
+}
 .header1{
     text-align: center;
         
