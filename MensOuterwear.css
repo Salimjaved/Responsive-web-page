@@ -15,13 +15,14 @@ body{
 .header1{
     text-align: center;
     margin-left: 36px;
-    width: 1200px; 
+    width: 100%;
     background-color: rgb(231, 168, 168);
     color: azure;
     padding: 8px;     
 }
 .cart{
     width: 34px;
+    float: right;
 }
 .A{
     text-align: center;
