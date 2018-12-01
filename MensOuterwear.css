@@ -4,14 +4,11 @@ body{
 .header{
     width:100%;
 }
-
 .heade{
     float: left;
     height: 34px;
-    margin-top: 6px;
-    
+    margin-top: 6px;   
 }
-
 .header1{
     text-align: center;
     margin-left: 36px;
@@ -28,11 +25,9 @@ body{
     margin: 0px;
 }
 .A{
-    text-align: center;
-   
+    text-align: center; 
 }
 .A1{
-  
     list-style-type: none;
     background-color: aquamarine;
     width: 100%;
